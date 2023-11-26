@@ -26,6 +26,6 @@ this is an empty and safe place to move ░
 
 The first move is blinded but you always start at  X as follow
 
-[ X , 0 , 0
-0, 0 ,0 
+[ X , 0 , 0 <br>
+0, 0 ,0  <br>
 0, 0, 0]
